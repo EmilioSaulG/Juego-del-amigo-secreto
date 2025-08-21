@@ -25,7 +25,7 @@ Tecnologías usadas
 
 Cómo usarlo
 -Clona el repositorio:
--git clone 
+-git clone: https://github.com/EmilioSaulG/Juego-del-amigo-secreto.git 
 -Abre index.html en tu navegador.
 -Ingresa nombres en el cuadro de texto.
 -Todo listo para comenzar tu sorteo
