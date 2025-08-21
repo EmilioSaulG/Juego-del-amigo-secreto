@@ -20,7 +20,7 @@ Pantalla inicial con el cuadro de texto y botón de añadir.
 Lista con nombres añadidos.
 <img width="1893" height="911" alt="image" src="https://github.com/user-attachments/assets/b526b708-5177-4457-8602-080de26b7456" />
 
-Resultado del sorte
+
 
 
 
@@ -49,14 +49,6 @@ Cómo usarlo
 -Todo listo para comenzar tu sorteo
 
 
-
-
-
-Sorteo de Amigos Secretos
-
-Este proyecto es un pequeño programa en JavaScript que permite registrar nombres de participantes y realizar un sorteo para elegir un "amigo secreto".
-
-Descripción
 
 El código permite:
 
